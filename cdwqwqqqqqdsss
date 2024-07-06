@@ -1,0 +1,89 @@
+[33mcommit e9e8d56aaabac8c9736810c2c620e8559871d8a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Sat Jul 6 12:35:05 2024 +0530
+
+    version 1.0
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 57e2d03..db061f0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1 @@[m
+[31m-[m
+[31m-hy harsh .[m
+[31m-how are you ?[m
+[31m-[m
+[32m+[m[32m<h1> hello this is git practice file </h1>[m
+
+[33mcommit dac864ee45388cc1184476d539c1e552aa734994[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Thu Jun 27 12:37:15 2024 +0530
+
+    v2
+
+[1mdiff --git a/file2 b/file2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5540cc4[m
+[1m--- /dev/null[m
+[1m+++ b/file2[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhy mamta[m[41m [m
+
+[33mcommit 46c19cdbae97cdf3be2c74b991fb97118a6de470[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Thu Jun 27 12:35:43 2024 +0530
+
+    Create file1
+
+[1mdiff --git a/file1 b/file1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..433eb17[m
+[1m--- /dev/null[m
+[1m+++ b/file1[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is file1[m
+
+[33mcommit be5a77ab28df80556ba1b32aa8605605891d5557[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Thu Jun 27 12:18:04 2024 +0530
+
+    v1
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 5db140f..57e2d03 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,4 @@[m
+[31m-<h1>hlo harsh</h1>[m
+[32m+[m
+[32m+[m[32mhy harsh .[m
+[32m+[m[32mhow are you ?[m
+[41m+[m
+
+[33mcommit 95902dc22e82815e9316b15251be2fa110939ea7[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Thu Jun 27 11:41:55 2024 +0530
+
+    g1
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5db140f[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m<h1>hlo harsh</h1>[m
+
+[33mcommit 6f6a525c8eb8ac3c2ee483cf6ea179106b4f68bc[m
+Author: its-harshh <raoharshvardhansingh6@gmail.com>
+Date:   Thu Jun 27 11:32:50 2024 +0530
+
+    g1
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ffcda27[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# hello1[m
